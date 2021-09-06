@@ -1,0 +1,14 @@
+#nct_id,eligibility_type,criterion
+NCT00097734,inclusion,"- At least three of the following signs or symptoms of an acute attack of sigmoid diverticulitis must be present: *Fever (body temperature > 38°C, sublingual), *Abdominal tenderness, *Leukocytosis (leukocytes > 10,000/µl) and left shift of the differential blood count (>1% band forms), *Elevated CRP (> 20 mg/l)"
+NCT00097734,inclusion,- CT evidence of wall thickening in the sigmoid intestine
+NCT00097734,inclusion,- Decision in favor of conservative therapy on the basis of the case history and diagnosis
+NCT00097734,inclusion,- Evidence of sigmoid diverticulitis by contrast enema
+NCT00097734,exclusion,- Antibiotic therapy in the two weeks prior to the start of the study
+NCT00097734,exclusion,- Complications of sigmoid diverticulitis leading to an immediate indication for surgery
+NCT00097734,exclusion,"- Contraindication for the use of the study medication or other beta-lactam antibiotics, e.g. patients with advanced renal impairment or patients requiring hemodialysis"
+NCT00097734,exclusion,- Each patient can be enrolled only once in the study
+NCT00097734,exclusion,- Female patients who are pregnant or nursing or who could become pregnant during the study
+NCT00097734,exclusion,- Participation in another clinical study or use of another study drug within the four weeks prior to enrollment in the study or use of another drug during the study
+NCT00097734,exclusion,- Patients on immunosuppressants
+NCT00097734,exclusion,"- Patients with a hematologic/oncologic disease (leukemia, lymphoma)"
+NCT00097734,exclusion,- Patients with an advanced incurable disease
